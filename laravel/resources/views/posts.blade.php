@@ -2,7 +2,6 @@
 
 @section('container')
 
-     <h1 class='mb-5'>{{ $title }}</h1>
       <h1 class="mb-3 text-center">{{$title}}</h1>
 
         <div class="row justify-content-center mb-3">
