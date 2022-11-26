@@ -372,4 +372,5 @@ trix-editor .attachment__metadata {
       max-width: 33%; }
     .trix-content .attachment-gallery.attachment-gallery--2 .attachment, .trix-content .attachment-gallery.attachment-gallery--4 .attachment {
       flex-basis: 50%;
-      max-width: 50%; }
+      max-width: 50%; 
+    }
